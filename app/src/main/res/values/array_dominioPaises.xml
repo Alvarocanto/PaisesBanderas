@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_dominiosPaises">
+        <item>.ar</item>
+        <item>.at</item>
+        <item>.au</item>
+        <item>.be</item>
+        <item>.bo</item>
+        <item>.br</item>
+        <item>.ca</item>
+        <item>.ch</item>
+        <item>.cl</item>
+        <item>.mx</item>
+    </string-array>
+
+</resources>
